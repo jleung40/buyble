@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "503097429936",
+    "project_id": "buyble-real",
+    "storage_bucket": "buyble-real.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503097429936:android:75772c152c8a74d0995075",
+        "android_client_info": {
+          "package_name": "com.example.buyble_real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503097429936-lm5dmf68uevnlem58m10g7iia28rdvm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buyble_real",
+            "certificate_hash": "f057c00e4fc9d48b94f5deeb69cb6f5701fc5036"
+          }
+        },
+        {
+          "client_id": "503097429936-ej68uh3tm9hrrme0vrro6q7irlh248s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mxi8v3Pp7m-Rq0uFVjHnYhoBKY4OCWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503097429936-ej68uh3tm9hrrme0vrro6q7irlh248s8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "503097429936-i82snop7h6j451mqhc82998sic308knl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buybleReal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
